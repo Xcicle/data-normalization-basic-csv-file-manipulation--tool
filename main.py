@@ -1,6 +1,16 @@
 import pandas as pd
 from normalizer import Normalizer
 
+"""
+Data Normalisation Project
+Author: Nathan
+Description:
+This program demonstrates data normalisation principles using Python and pandas.
+It processes a dataset and separates structured data into organised tables.
+"""
+
+
+
 # Initialize the Normalizer class
 norm = Normalizer()
 
