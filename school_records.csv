@@ -1,0 +1,35 @@
+StudentID,StudentName,StudentEmail,CourseID,CourseName,TeacherName,TeacherEmail,Room,ExamDate,Score
+S001,Aung Min,aungmin@gmail.com,C101,Computer Science,Mr Than,than@school.edu,Lab A,2025-05-12,78
+S001,Aung Min,aungmin@gmail.com,C102,Mathematics,Ms Hla,hla@school.edu,Room 3,2025-05-15,82
+S002,May Thiri,maythiri@gmail.com,C101,Computer Science,Mr Than,than@school.edu,Lab A,2025-05-12,91
+S003,Ko Zaw,kozaw@gmail.com,C103,Physics,Dr Lin,lin@school.edu,Lab B,2025-05-18,69
+S002,May Thiri,maythiri@gmail.com,C102,Mathematics,Ms Hla,hla@school.edu,Room 3,2025-05-15,88
+S004,Thazin Oo,thazin@gmail.com,C104,Chemistry,Dr Moe,moe@school.edu,Lab C,2025-05-20,75
+S003,Ko Zaw,kozaw@gmail.com,C101,Computer Science,Mr Than,than@school.edu,Lab A,2025-05-12,84
+S005,Min Khant,minkhant@gmail.com,C102,Mathematics,Ms Hla,hla@school.edu,Room 3,2025-05-15,73
+S005,Min Khant,minkhant@gmail.com,C103,Physics,Dr Lin,lin@school.edu,Lab B,2025-05-18,77
+S006,Su Su Hnin,susu@gmail.com,C104,Chemistry,Dr Moe,moe@school.edu,Lab C,2025-05-20,89
+S007,Aye Chan,ayec@gmail.com,C101,Computer Science,Mr Than,than@school.edu,Lab A,2025-05-12,85
+S008,Hnin Ei,hninei@gmail.com,C102,Mathematics,Ms Hla,hla@school.edu,Room 3,2025-05-15,90
+S009,Ko Ko,kk@gmail.com,C103,Physics,Dr Lin,lin@school.edu,Lab B,2025-05-18,66
+S010,Su Mon,sumon@gmail.com,C104,Chemistry,Dr Moe,moe@school.edu,Lab C,2025-05-20,72
+S011,Win Htet,winhtet@gmail.com,C101,Computer Science,Mr Than,than@school.edu,Lab A,2025-05-12,88
+S012,Kyaw Kyaw,kyawkyaw@gmail.com,C102,Mathematics,Ms Hla,hla@school.edu,Room 3,2025-05-15,79
+S013,May Khin,maykhin@gmail.com,C103,Physics,Dr Lin,lin@school.edu,Lab B,2025-05-18,81
+S014,Zaw Zaw,zz@gmail.com,C104,Chemistry,Dr Moe,moe@school.edu,Lab C,2025-05-20,84
+S015,Nyein Ei,nyeinei@gmail.com,C101,Computer Science,Mr Than,than@school.edu,Lab A,2025-05-12,92
+S016,Thiri Thant,thirithant@gmail.com,C102,Mathematics,Ms Hla,hla@school.edu,Room 3,2025-05-15,87
+S017,Hla Hla,hlahla@gmail.com,C103,Physics,Dr Lin,lin@school.edu,Lab B,2025-05-18,74
+S018,Ko Aung,koaung@gmail.com,C104,Chemistry,Dr Moe,moe@school.edu,Lab C,2025-05-20,80
+S019,Sanda Sanda,sandas@gmail.com,C101,Computer Science,Mr Than,than@school.edu,Lab A,2025-05-12,83
+S020,Khin Ma,khinma@gmail.com,C102,Mathematics,Ms Hla,hla@school.edu,Room 3,2025-05-15,76
+S021,Min Thu,minthu@gmail.com,C103,Physics,Dr Lin,lin@school.edu,Lab B,2025-05-18,68
+S022,Su Hnin,suhnin@gmail.com,C104,Chemistry,Dr Moe,moe@school.edu,Lab C,2025-05-20,91
+S023,Aung Kyaw,aungkyaw@gmail.com,C101,Computer Science,Mr Than,than@school.edu,Lab A,2025-05-12,79
+S024,Thandar Oo,thandoo@gmail.com,C102,Mathematics,Ms Hla,hla@school.edu,Room 3,2025-05-15,85
+S025,Ko Htet,koh@gmail.com,C103,Physics,Dr Lin,lin@school.edu,Lab B,2025-05-18,77
+S026,May Su,maysu@gmail.com,C104,Chemistry,Dr Moe,moe@school.edu,Lab C,2025-05-20,86
+S027,Thura Thura,thurathura@gmail.com,C101,Computer Science,Mr Than,than@school.edu,Lab A,2025-05-12,90
+S028,Su Su,ss@gmail.com,C102,Mathematics,Ms Hla,hla@school.edu,Room 3,2025-05-15,82
+S029,Ko Lin,kolin@gmail.com,C103,Physics,Dr Lin,lin@school.edu,Lab B,2025-05-18,71
+S030,Thiri Su,thirisu@gmail.com,C104,Chemistry,Dr Moe,moe@school.edu,Lab C,2025-05-20,88
